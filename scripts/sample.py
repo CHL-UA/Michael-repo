@@ -3,7 +3,7 @@
 ## Author
 Name: [Your Full Name]  
 Email: [Your Email Address]  
-Affiliation: PhD Student, University of Alabama  
+Affiliation: PhD Student, The University of Alabama  
 
 ## Description
 [Project description here]
